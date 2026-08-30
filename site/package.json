@@ -16,6 +16,10 @@
     "vue-router": "^5.2.0"
   },
   "devDependencies": {
-    "prettier": "3.9.6"
+    "@unocss/nuxt": "^66.8.1",
+    "@unocss/preset-web-fonts": "^66.8.1",
+    "@unocss/preset-wind4": "^66.8.1",
+    "prettier": "3.9.6",
+    "unocss": "^66.8.1"
   }
 }
